@@ -41,10 +41,11 @@ body{
     align-items: center;
     justify-content: space-between;
 }
-.logo{
+.logo.img{
     font-size: 45px;
     cursor: pointer;
     color: #fcfc;
+    background-color: #000;
 }
 .navbar ul li{
     list-style: none;
